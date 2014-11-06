@@ -1,0 +1,545 @@
+0587436214: LakeBTC.com
+2638147506: Lake Investments Limited
+4688302571: My Account
+7724638105: Open Orders
+3514812760: Trade
+5384023617: Wallet
+8127603245: My Wallet
+6740123058: Wallet History
+7341285650: Account Management
+3842971256: Trade History
+2438147526: Deposit
+4668322571: Withdraw
+6285731482: System busy, please try again in a few moments ...
+1482772356: Account History
+5184223617: Logout
+7341285632: Bitcoin News
+2587236214: Update Profile
+8107623245: Buy Bitcoin
+5724638125: Sell Bitcoin
+8941556372: B
+1482745356: A
+3842671556: Send
+3417862855: Pay
+6581423757: Delete
+2138147556: View
+4638352571: Bought
+2724638155: Sold
+7341285605: Bid
+6585731452: Ask
+6585731452: Ask
+6581423739: Volume
+4724638135: Market Data
+1482763356: Euro
+3842871356: USD
+6385731472: SEK
+3587136214: BTC
+2338147536: CNY
+1482763356: Euro
+3842871356: USD
+6385731472: SEK
+3587136214: BTC
+2338147536: CNY
+7341285623: Ripple
+5084323617: EgoPay
+4658332571: Bank Wire
+3417862945: Limit Order
+4648342571: Market Order
+6485731462: tbd
+6581423748: Login
+3842771456: Register
+7341285614: Edit
+3724638145: Forgot password?
+2238147546: Bid/Ask
+4587036214: ID
+1482754356: Updated
+2751439968: Menu
+3417862495: Error
+5768213964: Unconfirmed
+7158496832: Send Payment
+9371758462: Payment Details
+6985731412: External Accounts
+6581423793: Add External Accounts
+3842271956: Manage External Accounts
+1482709356: LakeBTC
+8541596372: News
+7391758462: Last：
+3842471756: Horizon：
+3417862675: 5m
+5788213764: 1h
+8741576372: 1d
+4618372571: 1w
+6785731432: Bitcoin market is extremely volatile. Please be advised that risks may include market risk, liquidity risk, volatility risk and so on.
+1482727356: Insufficient balance. Please make deposits first.
+0724638175: Est.
+6581423775: Passport
+6185731492: National ID
+7341285641: API Access
+6724638115: Help
+1482781356: Terms of Service
+4678312571: FAQ
+8117613245: AML & KYC
+1587336214: Privacy Policy
+5284123617: About Us
+3504812761: Bank
+2538147516: To
+5798213664: Bank Name
+6685731442: Bank Location
+6581423766: Account Name
+8841566372: Account Number
+3417862765: Routing Number
+1724638165: SWIFT Code
+1482736356: Max
+4628362571: Description
+2038147566: Maximum is %{num} characters
+3842571656: Address
+7158486932: IP
+6581423784: Login At
+8641586372: User Agent
+8381758462: Login History
+5778213864: Show Pic
+1482718356: More
+3842371856: Written by LakeBTC.com
+4608382571: <p>Minimum withdrawal amount is 100 CNY. This fee will be deducted from the amount being sent.</p> <p>Your current withdrawal rate is <b>%{wr}</b>. For details, click <a href="https://www.lakebtc.com/s/fees?locale=en" target="_blank">fee structures</a>.</p>
+3417862585: <p>Minimum withdrawal amount is 100 SEK. This fee will be deducted from the amount being sent.</p> <p>Your current withdrawal rate is <b>%{wr}</b> (except WIRE). For details, click <a href="https://www.lakebtc.com/s/fees?locale=en" target="_blank">fee structures</a>.</p>
+8190603245: <p>Minimum withdrawal amount is 50 USD. This fee will be deducted from the amount being sent.</p> <p><strike>Your current withdrawal rate is <b>%{wr}</b> (except WIRE)</strike>. <b>Promotional fee rate is 0.1%</b> + 5 USD. For details, click <a href='https://www.lakebtc.com/s/fees?locale=en' target='_blank'>fee structures</a>.</p> <ul><li>WIRE - Banks may charge 25 USD or more for each international wire transfer.</li> <li>RIPPLE - make sure you <b>add USD trust</b> to LakeBTC: <p>login in your Ripple wallet, click <b>Trust</b>, then <b>Add trust</b>. Enter LakeBTC's Ripple address <code>rpDMez6pm6dBve2TJsmDpv7Yae6V5Pyvy2</code>,  and a USD amount no less than the desired withdrawal amount (e.g., 5000 USD).</p> <li>EGOPAY - EgoPay charges 1.5% + 0.25 USD for personal accounts and 2.5% + 0.5 USD for business accounts. </li></ul>
+4853200164: <p>Minimum withdrawal amount is 0.1 BTC. This fee will be deducted from the amount being sent.</p> <p><strike>Your current withdrawal rate is <b>%{wr}</b></strike>. <b>Promotional fee is 0.0001 BTC</b>. For details, click <a href='https://www.lakebtc.com/s/fees?locale=en' target='_blank'>fee structures</a>.</p>
+1236480056: Withdraw Fee
+3584812060: Comment
+6040123758: Not Applicable
+2413018650: Deposit Records
+2030581364: Withdrawal Records
+2280345061: Sucessfully submitted!
+0520163084: Pending
+4380562150: Processed
+2580936214: Please transfer <b>%{amount}</b> to the following account.
+1236482054: Please transfer <b>%{amount}</b> to the following account via internet banking or over the counter.
+3564812062: <p>Please transfer <b>%{amount}</b> to the following account. Wire transfers are preferred for USD deposits. Your bank  might charge extra fees. To avoid any unnecessary cost/delay, make sure you <ul><li>provide <b>COMPLETE</b> and <b>EXACT</b> information to your bank.</li> <li>the beneficiary is our company, <b>NOT</b> our bank.</li> <li>put your <b>UID</b> in the memo/comment field, <b>NOTHING</b> else.</li> <li>follow bank wire instructions on this secure webpage before making <b>EVERY</b> transfer for the most up-to-date information.</li> </ul></p>
+5884223610: To deposit USD via Ripple, please <ol><li>Fill in the desired USD dollar amount and click Submit button above. </li> <li>In the Ripple wallet window popped up, send the <b>USD</b> payment to us. Do <b>NOT</b> send XRP, CNY or any other currencies.</li> <li>Sometimes Ripple pathfinding algorithm is slow, so please give it a few more moments if it could not find a path initially.</li> <li>Your USD will be credited to your LakeBTC account in a few minutes.</li></ol> If you are using the new Ripple wallet (rippletrade.com), make sure you fill in LakeBTC Ripple <b>gateway address</b> and <b>destination tag</b> shown above. <a href="https://www.lakebtc.com/p/2284?locale=en" target="_blank">For help click here</a>
+8170623245: Settings
+2210581364: Verification
+4382362150: I accept the <a target="_blank" href="https://www.lakebtc.com/s/terms?currency=USD&locale=en">Terms of Service</a>
+2853220164: Total amount of this deposit
+0280345261: The deposit fund source
+6042123558: Step 1. Submit a deposit request
+9024638155: Step 2. Transfer the fund now
+8140653245: LakeBTC Ripple Gateway
+5580636214: Ripple Deposit
+2838140556: Ripple Address
+0341285675: Destination Tag
+1236485051: Fee
+3534812065: Total
+6045123258: EgoPay Deposit
+4385062150: EgoPay Fee
+5584523610: EgoPay Account
+0341285693: Reserve
+6043123458: Actual
+8160633245: Deposit Again
+3580836214: Deposit Successfully
+5784323610: Deposit Failed
+1853230164: Deposit History
+1236483053: Payment Failed
+4383262150: Payment Failed
+2300581364: Payment successful
+3554812063: Pay Again
+2938140546: Payee Email
+3544812064: Get A New Bitcoin Address
+5684423610: Your deposit was received. To check your account history or make another deposit, click the buttons below.
+0341285684: Your deposit attempt was unsuccessful. Please try again. To check your account history or make another deposit, click the buttons below.
+4580736214: <ul> <li><span class="">If the Submit button is disabled, do NOT send us EgoPay USD now. Please try again at a later time.</span></li> <li>LakeBTC does not charge a fee for deposits.</li> <li><strike>For deposits over 10 USD, EgoPay charges 2.5% + 0.5 USD. For deposits less than 10 USD, EgoPay charges 2.5% + 0.25 USD.</strike></li> <li><span class="text-danger">EgoPay offers a promotional rate of 1.5% + 0.25 USD.</span></li> <li>Minimum deposit amount is 1 USD.</li> <li>The estimated fee shown above is for your reference only. The actual fee will be determined by EgoPay.</li></ul>
+4384162150: Other
+6044123358: Enhance account security.
+1236484052: GAuth QRCode & Setup
+0853240164: Language
+8150643245: Access Denied
+3842901956: Install <b>Google Authenticator</b> on your mobile phone (iPhone, iPod Touch, iPad, Android, Blackberry), and scan the QR code above. If enabled in your LakeBTC account, you will be asked for GAuth code to access your account after entering email/password. See <a href="https://support.google.com/accounts/answer/1066447" target="_blank">this Google document</a> for more information.
+2438140596: Last
+4668392501: High
+6985031482: Low
+1482079356: API
+5184923610: Verification failed. Please supply your full name, address, government-issued photo ID, ID images (both sides if applicable), and cellular phone number. Examples of proof of residency include electricity, gas, cable, phone bill or bank statement from within the last 3 months. Some countries also require an image of you holding your ID in your hand. JPEG image files under 1MB each are preferred. Do NOT cover or crop the documents. <a href="https://www.lakebtc.com/s/help?locale=en#verification" target="_blank">Click here for detailed instructions</a>. For corporate accounts, <a href="https://www.lakebtc.com/s/help?locale=en#corporate" target="_blank">click here</a>.
+0341285639: Please supply your full name, address, government-issued photo ID, ID images (both sides if applicable), and cellular phone number. Examples of proof of residency include electricity, gas, cable, phone bill or bank statement from within the last 3 months. Some countries also require an image of you holding your ID in your hand. JPEG image files under 1MB each are preferred. Do NOT cover or crop the documents. <a href="https://www.lakebtc.com/s/help?locale=en#verification" target="_blank">Click here for detailed instructions</a>. For corporate accounts, <a href="https://www.lakebtc.com/s/help?locale=en#corporate" target="_blank">click here</a>.
+9580236214: Verification completed.
+8100693245: Verification information submitted and is being processed.
+5024638195: To enhance security, it's recommended to use your registered cell number to send an SMS <b>%{uid}</b> to +86 13262756531. <a href="https://www.lakebtc.com/s/help?locale=en#kyc" target="_blank">Click here for help</a>.
+1482097356: Cellphone verified.
+7580436214: Now, send confirmation SMS
+2638140576: WARNING - All bitcoin transactions are <b>final</b> and <b>irreversible</b>. Double check the recipient bitcoin address and amount before confirming this withdrawal. To protect your fund against theft and fraud, please send SMS <code>%{sms}</code> to <b>+86 13262756531</b> to confirm the transfer of <code>%{amount} BTC</code> to <code>%{address}</code> (after fees, case insensitive). You may also confirm by email, which is less secure. <a href="https://www.lakebtc.com/s/help?locale=en#no_sms" target="_blank">Click here for help.</a>
+4688372501: To protect your fund against theft and fraud, please send SMS <code>%{sms}</code> <b>+86 13262756531</b> using your <b>verified</b> cellphone number to confirm this external account. If you did not register/verify your cellphone number with us, you may also confirm by email, which is less secure. <a href="https://www.lakebtc.com/s/help?locale=en#no_sms" target="_blank">Click here for help.</a>
+7024638175: Photo ID verfication is missing!
+3514812067: Unverified
+5384723610: Verified
+8120673245: Bonus
+6047123058: Google Auth
+0341285657: Google Authenticator enabled
+5984123610: To enhance security, it's recommended to enable <b>Google Authenticator</b> in the Settings tab below.
+4381462150: Images of your photo ID (both sides if applicable), <a href="https://www.lakebtc.com/s/help?locale=en#kyc" target="_blank">click here for help</a>.
+6041123658: Images of proof of residency (e.g., electricity, gas, cable, phone bill or bank statement from within the last 3 months), <a href="https://www.lakebtc.com/s/help?locale=en#kyc" target="_blank">click here for help</a>.
+8180613245: Images of you holding your ID in your hand (if applicable)
+3574812061: Amount
+1280345161: Sum
+3853210164: Driver License
+2120581364: Payee
+2403118650: Create Invoice
+1236481055: Link
+4698362501: Merchant Tools
+5484623610: My Invoices
+0341285666: New Invoice
+8024638165: Invoice
+2738140566: Invoice History
+6046123158: Your payment of %{amount} %{currency} to %{email} is successful.
+8130663245: Your payment of %{amount} %{currency} to %{email} is failed.
+3524812066: State
+1236486050: Paid At
+6580536214: Subject
+6885031492: Security
+0341285648: <p>Our years of risk management and internal control experience in financial industries build the most solid foundation for ensuring customers' fund and privacy being safe and secure.</p> <p>To protect your fund, we implemented a number of rigorous mechanisms including SSL encryption, cold storage, 2-step verification, SMS withdrawal confirmation, trade notifications and so on.</p> <p>High availability and fast trade matches, even under enormouse amount of load, are two attributes that are critical to high liquidity and make us stand out in the crowd.</p> <p>Besides, we also provide highly-secure market data and trading API's for advanced users who prefer arbitrages, market making, or alogrithm trading.</p>
+6024638185: Liquidity
+1482088356: <p>As a <a href="http://www.coindesk.com/price/">Big Four</a> exchange in CoinDesk BPI (Bitcoin Price Index), LakeBTC provides excellent liquidity to individual investors, institutions, merchants, miners, exchangers, market makers, arbitrageurs, funds, and professional trading firms. Besides, LakeBTC is a <a href="http://www.xrpga.org/gateways.html">Gateway Member of IRBA (International Ripple Gateway Association)</a>.</p> <p>Additionally, LakeBTC is part of a number of important bitcoin indexes, including that of <a href="http://www.teraexchange.com/">TeraExchange</a> (CFTC approved bitcoin swap), <a href="http://www.winkdex.com/">WinkDex</a> (pending), among others.</p> <p>LakeBTC price is also listed in a number of industry leading medias such as <a href="http://bitcoincharts.com/markets/lakeUSD.html">BitcoinCharts</a>, <a href="http://bitcoinity.org/markets/lakebtc/USD">Bitcoinity</a>. Our exchange and features are featured at major bitcoin news sites at <a href="http://www.coindesk.com/lakebtc-exchange-launches-browser-based-bitcoin-trading-app/">LakeTrader (CoinDesk)</a>, <a href="http://www.coindesk.com/lakebtc-users-bypass-bank-transfers-ripple/">Ripple Deposit(CoinDesk)</a>, <a href="http://www.coindesk.com/huobi-lakebtc-added-coindesk-bitcoin-price-index/">CoinDesk BPI (CoinDesk)</a>, <a href="http://cointelegraph.com/news/112112/a-ban-should-target-risky-products-and-foul-players-not-bitcoin-itself-lakebtc-ceo-thomas-xie">LakeBTC CEO Interview (CoinTelegraph)</a>, to name a few. </p>
+4678382501: Service
+8110683245: <p>We have been striving for an exceptional user experience of every single visit of every single customer around the globe. Our support team will be happy to help you with any questions you may have in registration, login, password recovery, deposits, trading, API, and withdrawals.</p> <p>To best protect users' fund and personal information against fraud and theft, LakeBTC implements a comprehensive set of risk management and internal control measures. Nevertheless, security does not come at the cost of convenience. Most reviews and processings take less than 30 minutes to complete during business hours, and we reply all customer inquires promptyly.</p> <p>Check out our <a href="https://www.lakebtc.com/s/help?locale=en">FAQ</a>, and we can be reached by email, SMS, instant-messaging, social networks, and telephone.</p>
+8580336214: Referral Program
+5284823610: Refer your friends, and earn <b>30%</b> of the trading commission fees paid! Simply <ol><li>Post the following URL on your website, blog, forums, Facebook, Twitter, or just share it with your friends.</li> <li>Your friends click this referral URL and register with LakeBTC.</li></ol> See our <a href="https://www.lakebtc.com/s/help?locale=en#referral">FAQ</a> for details.
+3504812068: Referral List
+2538140586: User
+3842991056: Reward
+2438149506: Fee Structure
+4668302591: Bitcoin News
+6085931482: inactive
+1482970356: Confirm Buy
+5184023619: Confirm Sell
+9341285630: All
+0589236214: Mandarin speaking only<br/> <b>+86 132 6275 6531</b><br/> 9am - 10pm (UTC +8)<br/> For English support, please send us an email.
+8109603245: Bitcoin Wallet Address
+5924638105: All numbers here are before trading commission fees. For final after-trading-fee records, click the "Account History" in the menu, then "All" tab.
+3419862925: Memo
+4648322591: Alias
+6285931462: Optional
+6581423928: Bank Location
+3842791256: Deleted
+9341285612: Pending SMS confirmation
+3924638125: Price for 1 BTC
+2238149526: BTC amount you're trading
+2589036214: OneClick
+1482952356: Manual
+5391958462: Xall
+3842491556: Cancel all open orders
+3419862655: OneClick order size
+5988213564: Login for more features
+8741556392: Withdrawals cannot exceed 0.5 BTC for non pre-verified bitcoin wallet addresses and users without cellphone verification. <a href="https://www.lakebtc.com/s/help?locale=en#no_sms" target="_blank">Click here for help.</a>
+4618352591: BuyNow
+1482925356: Estimated price per bitcoin. Actual price is based on the market price when the fund is cleared.
+0924638155: Estimated bitcoin amount purchased. Actual amount is based on the market price when the fund is cleared.
+8941536392: Cellphone Number
+1482943356: IBAN
+3842691356: Please register and verify your cellphone number first. <a href="/user/edit">Register now.</a>
+3419862835: Clearing Number
+6581423937: Bankgiro Number
+2138149536: To obtain the most up-to-date banking info, contact
+4638332591: via QQ, provide your <b>LakeBTC UID</b> and <b>deposit amount</b>.
+2924638135: Optionally, you may validate the Bank Account Number received (this step is recommended, not mandatory)
+9341285603: Transfer the fund to the designated bank account.
+6385931452: Next
+5998213464: Previous
+6581423946: Enter the image value
+8841546392: Enter the code in the box
+3419862745: Secret Code did not match with the Image
+1924638145: The secret Image and code were different
+1482934356: Password forgotten?
+4628342591: Didn't receive confirmation instructions?
+2038149546: Didn't receive unlock instructions?
+3842591456: Resend confirmation instructions
+5948213964: Submit
+9158496632: Change password
+8548639912: Confirm
+2951439768: Cancel
+6581423991: Master Book
+8341596392: Announcement
+3419862295: Currency is invalid!
+3842091956: Amount is invalid!
+9351958462: Transaction failed. Please try again later or contact BitC customer support.
+2951437968: SellNow
+5968213764: You have sold %{amt} BTC.
+9158476832: Make a BTC deposit
+7371958462: Estimated price per bitcoin. Actual price is based on the market price of the transaction time.
+6581423973: No data has been found
+3842291756: %m/%d
+1482907356: You logged-in successfully to your account.
+8541576392: Authentication failed, check your credentials and the captcha answer
+6581423919: You logged out successfully
+4924638115: Your order has been saved but no matching orders have been found yet
+1482961356: Your order was %{how} filled, you %{action} %{traded_btc} BTC for %{amount} %{currency} @ %{ppc} %{currency}/BTC
+3842891156: bought
+6185931472: sold
+1589136214: partially
+2338149516: completely
+9341285621: Trade order deleted successfully
+5084123619: Your account was successfully created
+4658312591: Your account was successfully updated
+9158466932: Some of these orders don't appear in the public order book
+6581423964: invisible to public
+8641566392: LakeBTC.com <%{support_email}>
+6381958462: Wallet backup %{date}
+5978213664: Registration confirmation
+1482916356: Operation was unsuccessful. Please try again!
+3842391656: cannot be yourself
+6685931422: cannot be blank
+4608362591: must be greater than %{min} BTC
+3419862565: greater than available balance
+9548638912: greater than capacity (%{capacity} BTC @ %{ppc} BTC/%{currency})
+8441586392: orders must have a 50 BTC minimal amount
+8361958462: is invalid
+2951438868: doesn't match its confirmation
+9158486732: answer is incorrect
+3842191856: cannot be your own address
+3419862385: cannot be less than %{minimum} %{currency}
+6581423982: unit price cannot be less than 0.0001 %{currency}
+6885931402: Currency
+5958213864: Balance
+6085831492: These funds are awaiting confirmation from the bitcoin network
+8341285640: Encrypted server wallet for %{date}
+6824638105: Frequently asked questions
+1482880356: Price
+4678302581: Trade history
+8118603245: No trades were found
+0588336214: Account history
+5284023618: Thank you for registering at LakeBTC.com
+3504812860: Your account ID is : %{account_id}
+2538148506: An error prevented your account details from being updated :
+6581423829: %{count} errors prevented your account details from being updated :
+4824638125: An error prevented your password from being updated :
+1482862356: %{count} errors prevented your password from being updated :
+3842881256: Email
+6285831472: Use this field only if you want to change your password
+2588136214: Confirmation
+2338148526: New password confirmation
+8341285622: Time zone
+5084223618: Listing users
+4658322581: Account
+5898213564: Password
+6585831442: Password Confirmation
+6581423856: Register
+8841556382: Bitcoin News
+3418862755: LakeBTC News
+1824638155:  - Page %{pn}
+1482835356: LakeTrader - LakeBTC.com
+4628352581: Real Time Bitcoin Trader
+2038148556: LakeBTC.com: Bitcoin Exchange
+3842581556: A leading bitcoin exchange for USD and CNY spot trading.
+3418862935: LakeBTC.com: Bitcoin Exchange
+4648332581: Buy, sell and store Bitcoins easily and safely on the best platform
+6385831462: Error posting invoice
+6581423838: The amount to be paid for this invoice
+3842781356: The address at which the funds should be sent
+8341285613: The URL that should be POST'ed to upon payment
+3824638135: Invoice successfully posted
+2238148536: Related order URL on the merchant website
+3588036214: You may use standard HTML tags or Markdown to edit the description part. Supported tags include <code>a</code> <code>embed</code> <code>h1</code> <code>h2</code> <code>h3</code> <code>ul</code> <code>li</code> <code>ol</code> <code>p</code> <code>strong</code> <code>b</code> <code>em</code> <code>i</code> <code>blockquote</code> <code>img</code>
+1482853356: Invoice deleted successfully
+8941546382: Are you sure you want to delete this invoice ?
+1482844356: Delete this invoice
+3842681456: To pay this invoice, simply transfer the requested amount to the payment address, the page will automatically refresh to show you its progress.
+3418862845: Return to merchant website
+6581423847: Delete this trade order
+2138148546: Are you sure you want to delete this trade order ?
+4638342581: Activate this trade order and execute it
+2824638145: Are you sure you want to activate this trade order ?
+8341285604: Price
+6485831452: Amount
+9548639812: Total
+8441596382: Market Order
+9361858462: <p>Commission rate is as low as 0%. Your current maker fee rate is <b>%{mr}</b>.</p> <p>For details, click <a href="https://www.lakebtc.com/s/fees?locale=en" target="_blank">fee structures</a>.</p>
+2851439868: Your balance
+8158496732: Your available confirmed balance
+3842181956: The total for your order
+3418862395: Invisible to public. Minimum 50 BTC.
+6581423892: 1 error prevented your trade order from being created :
+6985831402: %{count} errors prevented your trade order from being created :
+5858213964: Most deposits processing time is less than 30 minutes during business hours. Should you have any questions, please contact customer support for assistance. <a href="https://www.lakebtc.com/s/help?locale=en#dandw" target="_blank">Click here for help</a>.
+8158476932: Please enter an amount with 2 decimal points <b>0.%{dec}</b> to expedite processing. For example, wire transfer <b>2000.%{dec} %{currency}</b> to the account below and fill out the form. Note that you are responsible for any fees charged by financial institutions.
+6581423874: <p>Transfer bitcoins to your address below. It will show up in your account a few minutes. After 3 confirmations (may take up to %{estimation} minutes), it becomes available for trading. This address does not change automatically after each deposit. To get a new bitcoin address for deposits, click the button below.</p>
+8641576382: Submit
+7381858462: Require Google Auth. OTP
+5878213764: Help and setup instructions
+1482817356: Used to display localized dates and times
+3842381756: E-mail notifications
+6785831422: Receive a notification when one of your trade orders gets matched
+4608372581: The Google Authenticator shared-secret has been correctly reset, you should update your mobile device settings
+3418862575: Change your password
+3842981156: Submit
+2438148516: Your password has been updated successfully
+4668312581: Send unlock instructions
+6185831482: Transaction details
+1482871356: Your successfully withdrew %{amount} %{currency}
+5184123618: Your withdrawal request was successful and will be processed shortly
+8341285631: Processed
+1588236214: Pending
+8108613245: Withdraw
+5824638115: <p>For your protection, all withdrawals are processed by our clearance system in the back office and manually approved. FIAT currency (e.g., USD and CNY) withdraw bank account name should be the same as the registered name in LakeBTC. Bitcoin withdrawals should be verified by SMS from the registered cellphone number. Our fees shown below will be deducted from the amount withdrawn. You are responsible for all possible fees and taxes by banks and/or governments. <a href="https://www.lakebtc.com/s/help?locale=en#dandw" target="_blank">Click here for help</a>.</p>
+6391858462: Some errors prevent your funds from being withdrawn :
+3842481656: External account successfully registered
+3418862665: Your external account could not be registered
+5888213664: External account deleted
+8741566382: You cannot delete a external account that has been verified or wired to
+4618362581: Delete
+6685831432: Are you sure you want to delete this external account?
+1482826356: This page was last updated at %{updated_at}
+0824638165: Open a support request
+6581423865: Submit request
+2851438968: Please be as accurate as possible when describing your request and provide all the relevant details.
+3418862485: Unable to submit your support request
+5868213864: Your request was saved successfully, it will be processed as soon as possible
+8158486832: Your support requests
+8371858462: You have no support requests to display
+6885831412: Add a comment
+6581423883: %{who} wrote, %{when} ago
+3842281856: You
+1482808356: Re-open ticket
+8541586382: Close ticket
+2938144506: Reference
+3544812460: Payee
+5684023614: Payment address
+4341285680: Amount
+0584736214: Callback URL
+4380162154: State
+6440123358: Paid at
+1236480452: Payee Email
+0853204164: Currency
+8154603245: Subject
+4698322541: Description
+5484223614: Authentication token
+4341285662: Related order URL
+8424638125: Amount
+2738144526: Dark pool
+6442123158: Price
+8134623245: Type
+3524812462: Matching
+1236482450: Currency
+2584536214: Total
+3842941556: Created at
+2438144556: Updated at
+4668352541: ID
+6585431482: Created at
+1482475356: User
+5184523614: Amount
+4341285635: Amount
+5584236214: Address
+8104653245: Currency
+5424638155: Confirmations
+1482493356: Senders Bitcoin address
+3584436214: Bitcoin transaction
+2638144536: E-mail address
+4688332541: Status
+7424638135: ID
+3514812463: E-mail address
+5384323614: Password
+8124633245: Password Confirmation
+6443123058: Are you human?
+4341285653: UID
+6485431492: Administrator
+4341285644: Currency
+6424638145: Authentication token
+1482484356: Confirmation e-mail sent at
+4678342541: Confirmation token
+8114643245: Current sign-in at
+4584336214: Current sign-in IP
+5284423614: Encrypted password
+3504812464: Failed authentication attempts
+2538144546: Last Bitcoin address
+5498213964: Last sign-in at
+6985431442: Last sign-in IP
+6581423496: Locked at
+8841596342: Password salt
+3414862795: Remember created at
+1424638195: Remember token
+1482439356: Password reset token
+4628392541: Salt
+2038144596: Secret token
+3842541956: Time-zone
+3414862975: ID Type
+4648372541: ID Number
+6785431462: ID Country
+6581423478: Unlock token
+3842741756: Purchase trades
+4341285617: Sale trades
+3424638175: Trade orders
+2238144576: Transfers
+7584036214: Current Password
+1482457356: New Password
+9424638115: Merchant API
+8144613245: Google Authenticator
+1584636214: Google Auth. OTP
+2838144516: Bank Account
+4341285671: Your Name
+1236481451: Your Address
+3534812461: Successful trade
+6441123258: Commission rate
+4381062154: Pic 1
+5584123614: Pic 2
+6581423469: Pic 3
+4424638165: Country Code
+1482466356: Cell
+3842841656: Terms
+6685431472: Type
+6584136214: Amount
+2338144566: Price
+4341285626: Total
+5084623614: Date
+4658362541: Message
+8941586342: Active
+1482448356: Title
+3842641856: Locale
+3414862885: Contents
+6581423487: Created at
+2138144586: Last updated at
+4638382541: BIC
+2424638185: Full name and address
+4341285608: Registered on
+6885431452: Status
+3341285690: Bank name
+6340123458: Account number
+8163603245: Code
+0583836214: Creation
+5784023613: Update
+1853203164: ID
+1236480353: Title
+4380262153: Status
+2003581364: Description
+3554812360: Opened at
+9324638125: Updated at
+8143623245: Amount
+2583636214: Bank
+2838143526: Invoice
+3341285672: Invoices
+1236482351: User
+3534812362: Users
+6342123258: Trade order
+4382062153: Trade orders
+5584223613: Operation
+6585331492: Operations
+3341285645: Transfer
+6324638155: Transfers
+1482385356: Trade
+4678352531: Trades
+8113653245: Announcement
+5583336214: Announcements
+5284523613: Static page
+3504812365: Static pages
+2538143556: Bank account
+4698332531: Bank accounts
+5484323613: Support ticket
+3341285663: Support tickets
+8324638135: Currency
+2738143536: Currencies
+6343123158: Pending payment
+8133633245: Processing payment
+3524812363: Paid
+1236483350: No payment has been received yet
+3583536214: A payment has been detected and awaits confirmation from the Bitcoin network
+1482394356: Payment has been confirmed
+4583436214: Payee Email
+2638143546: Unverified
+4688342531: Verified
+7324638145: Pending
+3514812364: Solved
+5384423613: Closed
