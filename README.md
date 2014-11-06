@@ -10,8 +10,10 @@ to LakeBTC and you can enjoy FREE trading for one month.
 
 For example, you can make a copy of `en.txt` and rename it to `de.txt`, 
 and translate all lines, e.g., replace
+
     6581423856: Register
 with
+
     6581423856: Registrieren
 in your `de.txt`.
 
